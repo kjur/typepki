@@ -12,9 +12,9 @@
   "excludeExternals": true,
   "excludePrivate": true,
   "navigationLinks": {
-    "Home": "https://kjur.github.io/typepki-webcrypto/",
-    "Issue": "https://github.com/kjur/typepki-webcrypto/issues",
-    "GitHub": "https://github.com/kjur/typepki-webcrypto",
+    "Home": "https://kjur.github.io/typepki/",
+    "Issue": "https://github.com/kjur/typepki/issues",
+    "GitHub": "https://github.com/kjur/typepki",
     "TypePKI": "https://kjur.github.io/typepki",
     "jsrsasign": "https://kjur.github.io/jsrsasign"
   }

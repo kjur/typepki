@@ -7,6 +7,7 @@ The 'TypePKI' library is an opensource free TypeScript PKI library which is the 
 
 TypePKI has following sub modules:
 
+- [typepki-jwt](https://kjur.github.io/typepki-jwt/): JWS(JSON Web Signatures) and JWT(JSON Web Token) module
 - [typepki-asn1gen](https://kjur.github.io/typepki-asn1gen/): ASN.1 data generator
 - [typepki-webcrypto](https://kjur.github.io/typepki-webcrypto/): W3C Web Crypto API helper functions
 - [typepki-strconv](https://kjur.github.io/typepki-strconv/): string converters and utility functions

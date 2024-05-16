@@ -34,7 +34,7 @@
     "precommit": "run-z check:type fix test build",
     "prepublish": "attw --pack .",
     "run-z": "run-z",
-    "doc": "typedoc --includeVersion --cleanOutputDir false --tsconfig ./tsconfig.typedoc.json --options ./typedoc.json src/index.mts"
+    "doc": "typedoc --cleanOutputDir false --tsconfig ./tsconfig.typedoc.json --options ./typedoc.json src/index.mts"
   },
   "files": [
     "src",
